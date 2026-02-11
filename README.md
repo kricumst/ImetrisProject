@@ -11,3 +11,7 @@ source .venv/bin/activate
 
 3. Install dependencies
 pip install -r requirements.txt
+
+4. Update .env file with SQL username and password:
+   username - uniqname
+   password - uniqname
